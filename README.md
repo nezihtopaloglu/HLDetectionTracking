@@ -1,7 +1,7 @@
 # HLDetectionTracking
 
 ## Authors
-Ahmet Agaoglu, Nezih Topaloglu
+[Ahmet Agaoglu](https://github.com/Ahmet-Agaoglu), Nezih Topaloglu
 
 ## Description
 This repository contains the source code for maritime horizon line detection and tracking. The theoretical background of this code is detailed in the paper "Fast Maritime Horizon Line Tracking with On-Off Region-of-Interest Control" by Ahmet Agaoglu and Nezih Topaloglu, currently under review.
