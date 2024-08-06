@@ -16,7 +16,8 @@ The repository includes three Python files and two folders:
 
 **helper.py** includes various utility functions, such as error estimation calculations, which support the main and HLDA files.
 
-The folder **VIS_Onboard** includes the ground truth daha for the Singapore Maritime Dataset, On-Board Videos (subfolder: HorizonGTCorrected)
+The folder **VIS_Onboard** includes the ground truth daha for the Singapore Maritime Dataset, On-Board Videos (subfolder: HorizonGTCorrected).
+
 The folder **Buoy** includes the ground truth daha for the Buoy Dataset (subfolder: HorizonGTCorrected)
 
 ## Getting Started
